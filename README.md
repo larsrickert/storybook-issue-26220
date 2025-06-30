@@ -1,6 +1,10 @@
 Working example for Storybook issue [#26220](https://github.com/storybookjs/storybook/issues/26220).
 
-Setup:
+## Prerequisites
+
+- [pnpm](https://pnpm.io/)
+
+## Setup
 
 1. Run `pnpm install`
 2. Run `cd apps/storybook`
